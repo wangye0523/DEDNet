@@ -1,2 +1,1 @@
 # DEDNet
-![Uploading image.png…]()
