@@ -1,0 +1,1 @@
+python train.py --lr=0.00005 --batch-size=8 --hidden_dim=256 --windows=5 --epochs=20 --Dataset="MELD" --save_model_path="./MELD"
